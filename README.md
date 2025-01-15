@@ -6,9 +6,9 @@
 
 4. pkg install python -y
 
-5. git clone https://github.com/CPMElsedev/CPMElsedev.git
+5. git clone https://github.com/Nur1k518/Nur1k518.git
 
-6. cd CPMElsedev
+6. cd Nur1k518
 
 7. git pull
 
